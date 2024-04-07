@@ -1,0 +1,4 @@
+# peiQi class
+# -*- coding:gbk -*-
+print(f"¶þ´óÒ¯", end="");
+
